@@ -1,24 +1,24 @@
-# TADA 2025 - Warsztaty - Praktyczne testowanie regresji wizualnej: Nowoczesne narzędzia i techniki
+# TestCon Europe 2025 - Workshop | Practical Visual Regression Testing: A Hands-On Guide with Modern Tools
 
-**Drogi Uczestniku**,
+**Dear Participant**,
 
-Cieszę się, że wybrałeś właśnie mój warsztat :)
+I’m glad you chose my workshop :)
 
-W celu weryfikacji środowiska na którym będziemy pracować w takcie warsztatów poproszę Cię o upewnienie się, że spełniasz wymagania dotyczące narzędzi (*Wymagania*).
+To verify the environment we’ll be working on during the workshop, please make sure you meet the tool requirements (*Requirements*).
 
-## Przydatne Linki
+## Useful Links
 
-- Notatki: : https://pastebin.com/hhKFQzX
-  
-## Wymagania
+- Notes: [[https://pastebin.com/hhKFQzX](https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing)](https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing)
 
-### Narzędzia
+## Requirements
 
-Na warsztaty przybądź zaopatrzony w laptopa – najlepiej z systemem Windows. Upewnij się, iż laptop nie jest obwarowany, żadnym blokadami, typu brak uprawnień do instalacji narzędzi, ograniczenia dostępu do sieci (VPN) itp.
+### Tools
 
-Proszę o instalację:
+Bring a laptop to the workshop – preferably with Windows. Make sure your laptop is not restricted by any limitations, such as lack of permissions to install tools, or network access restrictions (VPN), etc.
 
-- **IDE** - najlepiej Visual Studio Code - https://code.visualstudio.com/download
+Please install:
+
+- **IDE** - preferably Visual Studio Code - https://code.visualstudio.com/download
 
 - **GIT** - [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
@@ -30,28 +30,28 @@ Proszę o instalację:
 - **Node.js**
   - https://nodejs.org/en
 
-## Weryfikacja środowiska
+## Environment Verification
 
 ### Git:
 
-- Utwórz fork repozytorium: https://github.com/tklepacki/tada-vrt na swoim prywatnym koncie GITHub. Jeśli nie masz konta na GitHub, utwórz go wcześniej.
-- Sklonuj sforkowane repozytorium (ze swojego prywatnego konta) `git clone https://github.com/tklepacki/tada-vrt.git`
-- Wejdź do folderu z repozytorium i upewnij się, że projekt został pobrany.
+- Fork the repository: https://github.com/tklepacki/tada-vrt to your private GitHub account. If you don’t have a GitHub account, create one beforehand.
+- Clone the forked repository (from your private account) `git clone https://github.com/tklepacki/testcon-vrt.git`
+- Enter the repository folder and make sure the project has been downloaded.
 
 ### IDE
 
-- Otwórz folder projektu w swoim IDE.
+- Open the project folder in your IDE.
 
 ### Docker
 
-- Wpisz w konsoli: `docker -v` po czym upewnij się, iż została podana informacja o wersji zainstalowanego Dockera
-- Wpisz w konsoli: `docker-compose -v` po czym upewnij się, iż została podana informacja o wersji zainstalowanego Docker-Componse
+- Type in the console: `docker -v` and ensure the installed Docker version is displayed.
+- Type in the console: `docker-compose -v` and ensure the installed Docker-Compose version is displayed.
 
 ### Node.js
 
-- Wpisz w konsoli: `node -v` po czym upewnij się, iż została podana informacja o wersji zainstalowanego Node.js.
-- Wpisz w konsoli: `npm -v` po czym upewnij się, iż została podana informacja o wersji zainstalowanego npm'a.
+- Type in the console: `node -v` and ensure the installed Node.js version is displayed.
+- Type in the console: `npm -v` and ensure the installed npm version is displayed.
 
-## W razie problemów
+## In case of issues
 
-W razie jakichkolwiek pytań lub problemów z wykonaniem instrukcji pisz na mój adres e-mail: *t.klepacki@wp.pl*
+If you have any questions or problems with following the instructions, please email me at: *t.klepacki@wp.pl*
