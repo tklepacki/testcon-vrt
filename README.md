@@ -34,7 +34,7 @@ Please install:
 
 ### Git:
 
-- Fork the repository: https://github.com/tklepacki/tada-vrt to your private GitHub account. If you don’t have a GitHub account, create one beforehand.
+- Fork the repository: https://github.com/tklepacki/testcon-vrt to your private GitHub account. If you don’t have a GitHub account, create one beforehand.
 - Clone the forked repository (from your private account) `git clone https://github.com/tklepacki/testcon-vrt.git`
 - Enter the repository folder and make sure the project has been downloaded.
 
