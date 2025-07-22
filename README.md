@@ -8,7 +8,7 @@ To verify the environment we’ll be working on during the workshop, please make
 
 ## Useful Links
 
-- Notes: [[https://pastebin.com/hhKFQzX](https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing)](https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing)
+- Notes: https://docs.google.com/document/d/1JfIuWjgBbResKPTzrceji3g5GSt9QvJpXweh9UNjCpE/edit?usp=sharing
 
 ## Requirements
 
